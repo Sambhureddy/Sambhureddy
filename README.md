@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sambhureddy
-- 👀 I’m interested in 
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate in google
 - 📫 How to reach me-ranganisambhuprasad@gmail.com
